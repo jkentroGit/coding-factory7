@@ -15,7 +15,7 @@ public class CodeText {
         String input;
         StringBuilder code = new StringBuilder();
 
-        System.out.print("Please insert text:");
+        System.out.print("Please insert text: ");
         input = sc.nextLine();
 
         System.out.print("Please insert shift: ");
